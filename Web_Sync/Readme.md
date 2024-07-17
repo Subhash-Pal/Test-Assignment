@@ -1,6 +1,7 @@
 Console 1
 
 cargo run
+
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.39s
      Running `target\debug\Web_Sync.exe`
      
